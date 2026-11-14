@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://legacywise24.github.io/fiscallyfit-site/sitemap.xml
+Sitemap: https://fiscallyfitcreditrepair.com/sitemap.xml
